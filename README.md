@@ -1,4 +1,4 @@
-# movie review prediction using Machine Learning and NLP
+# movie review prediction using Machine Learning and NLP (sentiment analysis)
 - This project is for prediction whether the text is positive, negative or neutral.
 - Dataset available [here](https://drive.google.com/file/d/1-Vs-z4bqtnqIAPgEtTdB_UXO0USNq5K2/view?usp=sharing)
 ## **What is sentiment analysis?**
